@@ -1,0 +1,23 @@
+library(dplyr)
+library(tidyverse)
+
+MCData_table <- read.csv(file='MechaCar_mpg.csv',check.names=F,stringsAsFactors = F)
+
+model <- lm(formula = mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, data = MCData_table)
+summary(model)
+
+SCoil_table <- read.csv(file='Suspension_Coil.csv',check.names=F,stringsAsFactors = F)
+SCoil_Summarize <- summarize(SCoil_table,mean(PSI), median(PSI), var(PSI), sd(PSI))
+
+SCoil_GBlot_Summarize <- SCoil_table %>% group_by(Manufacturing_Lot) %>% summarize(mean(PSI), median(PSI), var(PSI), sd(PSI))
+
+TTest = t.test(SCoil_table$PSI, mu = mean(SCoil_table$PSI))
+
+L1Subset = subset(SCoil_table$PSI, SCoil_table$Manufacturing_Lot == "Lot1")
+TTL1 = t.test(L1Subset, mu = mean(SCoil_table$PS)
+  
+L2Subset = subset(SCoil_table$PSI, SCoil_table$Manufacturing_Lot == "Lot2")
+TTL2 = t.test(L2Subset, mmu = mean(SCoil_table$PS)
+  
+L3Subset = subset(SCoil_table$PSI, SCoil_table$Manufacturing_Lot == "Lot3")
+TTL3 = t.test(L3Subset, mmu = mean(SCoil_table$PS)
