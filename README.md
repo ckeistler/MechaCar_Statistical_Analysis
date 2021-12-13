@@ -10,10 +10,12 @@
       Vehicle Weight, Spiler Angle, and AWD
       
 #### Q2: Is the slope of the linear model considered to be zero? Why or why not?
-      The R-squared value of 0.7149 says that ~71.5% of the variation in response to variables comes from our variables.  The p-value of our linear regression analysis is 5.35 x 10-11, which is much smaller than our assumed significance level of 0.05%, and the slope of our linear model is not zero.
+      The R-squared value of 0.7149 says that ~71.5% of the variance of the dependent variable stems from the variables included.  The p-value of our linear regression analysis is 5.35 x 10-11, which is much smaller than our assumed significance level of 0.05%, and the slope of our linear model is not zero.
 
 #### Q3: Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
+      Effectively might be a strong word in this case ... maybe "moderately-effective" is a better term.  An R-squared of 71.5% is a positive indicator for sure, but there is still plenty of room for error/variance that isn't accounted for in the model.  Adding additional factors could help increase the R-squared futher.
+      
+        
 ## Summary Statistics on Suspension Coils
 ![d2A](https://user-images.githubusercontent.com/88443672/145734979-e29556bc-d721-4a73-8029-56c839505d85.png)
 
