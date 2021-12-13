@@ -7,7 +7,7 @@
 ![deliverable1B](https://user-images.githubusercontent.com/88443672/145734876-f0ec7301-b7c1-4b00-a5cd-912f651bf050.png)
 
 #### Q1: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-      Vehicle Weight, Spiler Angle, and AWD
+      Vehicle Weight, Spoiler Angle, and AWD
       
 #### Q2: Is the slope of the linear model considered to be zero? Why or why not?
       The R-squared value of 0.7149 says that ~71.5% of the variance of the dependent variable stems from the variables included.  The p-value of our linear regression analysis is 5.35 x 10-11, which is much smaller than our assumed significance level of 0.05%, and the slope of our linear model is not zero.
