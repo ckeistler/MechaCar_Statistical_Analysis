@@ -7,7 +7,8 @@
 ![deliverable1B](https://user-images.githubusercontent.com/88443672/145734876-f0ec7301-b7c1-4b00-a5cd-912f651bf050.png)
 
 #### Q1: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
+      Vehicle Weight, Spiler Angle, and AWD
+      
 #### Q2: Is the slope of the linear model considered to be zero? Why or why not?
 
 #### Q3: Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
