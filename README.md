@@ -6,7 +6,11 @@
 ![deliverable1A](https://user-images.githubusercontent.com/88443672/145734873-d1457400-5a82-4d9c-a284-81562e19bedb.png)
 ![deliverable1B](https://user-images.githubusercontent.com/88443672/145734876-f0ec7301-b7c1-4b00-a5cd-912f651bf050.png)
 
+### Q1: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
+### Q2: Is the slope of the linear model considered to be zero? Why or why not?
+
+### Q3: Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
 ![d2A](https://user-images.githubusercontent.com/88443672/145734979-e29556bc-d721-4a73-8029-56c839505d85.png)
