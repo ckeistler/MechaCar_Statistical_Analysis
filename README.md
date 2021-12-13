@@ -17,8 +17,11 @@
 
 
 ## T-Tests on Suspension Coils
+![d3A](https://user-images.githubusercontent.com/88443672/145735116-5a867571-f39e-4494-bf3a-683100180f7d.png)
 
+![d3B](https://user-images.githubusercontent.com/88443672/145735119-d64225a4-d28d-4527-af73-017d60c76612.png)
 
+![d3C](https://user-images.githubusercontent.com/88443672/145735123-7261e1d5-4952-4185-a20a-bd0d7dea2554.png)
 
 
 
