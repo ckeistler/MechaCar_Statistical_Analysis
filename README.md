@@ -9,8 +9,11 @@
 
 
 ## Summary Statistics on Suspension Coils
+![d2A](https://user-images.githubusercontent.com/88443672/145734979-e29556bc-d721-4a73-8029-56c839505d85.png)
 
+![d2B](https://user-images.githubusercontent.com/88443672/145734984-ce132f46-2f88-4870-82f9-972dd7caf976.png)
 
+![d2C](https://user-images.githubusercontent.com/88443672/145734988-5c4368b9-2dd6-4ad6-8644-b856c42e1623.png)
 
 
 ## T-Tests on Suspension Coils
