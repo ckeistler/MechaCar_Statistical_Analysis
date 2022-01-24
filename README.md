@@ -34,9 +34,6 @@ Effective might be a strong word in this case ... maybe "moderately-effective" i
       The variance, inclusive of all manufacturing lots, does not exceed 100 pounds per square inch.  As a whole, the design specifications are met.  That said, Lot 3 variance was 170.29 psi, while Lots 1 and 2 were less than 10.  Lot 3 does not meet the mentioned design specification.
       
 ## T-Tests on Suspension Coils
-![d3A](https://user-images.githubusercontent.com/88443672/145735116-5a867571-f39e-4494-bf3a-683100180f7d.png)
-
-![d3B](https://user-images.githubusercontent.com/88443672/145735119-d64225a4-d28d-4527-af73-017d60c76612.png)
 
 
 #### Q1: Briefly summarize your interpretation and findings for the t-test results
