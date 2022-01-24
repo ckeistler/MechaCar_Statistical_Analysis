@@ -14,10 +14,10 @@ SCoil_GBlot_Summarize <- SCoil_table %>% group_by(Manufacturing_Lot) %>% summari
 TTest = t.test(SCoil_table$PSI, mu = mean(SCoil_table$PSI))
 
 L1Subset = subset(SCoil_table$PSI, SCoil_table$Manufacturing_Lot == "Lot1")
-TTL1 = t.test(L1Subset, mu = mean(SCoil_table$PS)
+TTL1 = t.test(L1Subset, mu = mean(SCoil_table$PSI))
   
 L2Subset = subset(SCoil_table$PSI, SCoil_table$Manufacturing_Lot == "Lot2")
-TTL2 = t.test(L2Subset, mmu = mean(SCoil_table$PS)
+TTL2 = t.test(L2Subset, mu = mean(SCoil_table$PSI))
   
 L3Subset = subset(SCoil_table$PSI, SCoil_table$Manufacturing_Lot == "Lot3")
-TTL3 = t.test(L3Subset, mmu = mean(SCoil_table$PS)
+TTL3 = t.test(L3Subset, mu = mean(SCoil_table$PSI))
