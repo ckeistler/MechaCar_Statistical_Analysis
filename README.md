@@ -37,7 +37,6 @@ Effective might be a strong word in this case ... maybe "moderately-effective" i
 
 ![d3B](https://user-images.githubusercontent.com/88443672/145735119-d64225a4-d28d-4527-af73-017d60c76612.png)
 
-![d3C](https://user-images.githubusercontent.com/88443672/145735123-7261e1d5-4952-4185-a20a-bd0d7dea2554.png)
 
 #### Q1: Briefly summarize your interpretation and findings for the t-test results
 
