@@ -41,6 +41,9 @@ Effective might be a strong word in this case ... maybe "moderately-effective" i
 ![d3C](https://user-images.githubusercontent.com/88443672/150873509-5692eb2f-6edb-4fb3-b6d3-d26d417fbe4c.png)
 
 #### Q1: Briefly summarize your interpretation and findings for the t-test results
+* Lot1: The T-Test on Lot1 gave us a Mean of 1500 and P-Value of 1.  We fail to reject the null hypothesis.
+* Lot2: The T-Test on Lot2 gave us a Mean of 1500.2 and P-Value of 0.6072.  We fail to reject the null hypothesis.
+* Lot3: The T-Test on Lot3 gave us a Mean of 1496.14 and P-Value of 0.04168.  If the significance level is 0.05, then we can reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
 
