@@ -28,6 +28,7 @@ Effective might be a strong word in this case ... maybe "moderately-effective" i
 
 ![d2B](https://user-images.githubusercontent.com/88443672/145736705-73d2de9b-b9ed-4fcc-9c52-b8661c76f825.png)
 
+![d3C](https://user-images.githubusercontent.com/88443672/150871513-39a49a1d-924f-4d89-81ac-2aeb65cb2b2b.png)
 
 #### Q1: The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
       The variance, inclusive of all manufacturing lots, does not exceed 100 pounds per square inch.  As a whole, the design specifications are met.  That said, Lot 3 variance was 170.29 psi, while Lots 1 and 2 were less than 10.  Lot 3 does not meet the mentioned design specification.
